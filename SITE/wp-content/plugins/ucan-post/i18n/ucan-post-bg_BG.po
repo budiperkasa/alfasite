@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uCan Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-22 00:51-0700\n"
+"PO-Revision-Date: 2011-01-24 17:50+0200\n"
+"Last-Translator: Dobrin Draganov <dobrin.draganov@abv.bg>\n"
+"Language-Team: cartpauj\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\\views\n"
+
+#: .\views/ucan-admin-options-form.php:2
+msgid "uCan Post -- Admin Options"
+msgstr "uCan Post -- Админ Опции"
+
+#: .\views/ucan-admin-options-form.php:7
+msgid "Setting"
+msgstr "Настройки"
+
+#: .\views/ucan-admin-options-form.php:8
+msgid "Value"
+msgstr "Стойност"
+
+#: .\views/ucan-admin-options-form.php:13
+msgid "User Level required to create posts:"
+msgstr "Потребителят ниво, необходими за създаване мнения:"
+
+#: .\views/ucan-admin-options-form.php:16
+msgid "Guest"
+msgstr "Гост"
+
+#: .\views/ucan-admin-options-form.php:17
+msgid "Subscriber"
+msgstr "Член"
+
+#: .\views/ucan-admin-options-form.php:18
+msgid "Contributor"
+msgstr "Сътрудник"
+
+#: .\views/ucan-admin-options-form.php:19
+msgid "Author"
+msgstr "Автор"
+
+#: .\views/ucan-admin-options-form.php:20
+msgid "Editor"
+msgstr "Редактор"
+
+#: .\views/ucan-admin-options-form.php:21
+msgid "Administrator"
+msgstr "Администратор"
+
+#: .\views/ucan-admin-options-form.php:23
+msgid "(Default = Subscriber)"
+msgstr "(По-подразбиране = член)"
+
+#: .\views/ucan-admin-options-form.php:28
+msgid "Use WYSIWYG Editor:"
+msgstr "Използвайте WYSIWYG редактор:"
+
+#: .\views/ucan-admin-options-form.php:29
+msgid "Disabling the editor also disables media uploads"
+msgstr "Изключването на редактора забранява също и медии качване"
+
+#: .\views/ucan-admin-options-form.php:33
+#: .\views/ucan-admin-options-form.php:75
+#: .\views/ucan-admin-options-form.php:113
+#: .\views/ucan-admin-options-form.php:147
+#: .\views/ucan-admin-options-form.php:155
+#: .\views/ucan-admin-options-form.php:163
+#: .\views/ucan-admin-options-form.php:173
+#: .\views/ucan-admin-options-form.php:201
+msgid "(Default = True)"
+msgstr "(По-подразбиране =  Вярно)"
+
+#: .\views/ucan-admin-options-form.php:38
+msgid "Allow submitter to select the post category:"
+msgstr "Позволява подателя,  да избере категорията:"
+
+#: .\views/ucan-admin-options-form.php:41
+#: .\views/ucan-admin-options-form.php:103
+#: .\views/ucan-admin-options-form.php:121
+#: .\views/ucan-admin-options-form.php:139
+#: .\views/ucan-admin-options-form.php:183
+#: .\views/ucan-admin-options-form.php:193
+#: .\views/ucan-admin-options-form.php:211
+msgid "(Default = False)"
+msgstr "(По-подразбиране = Фалшив)"
+
+#: .\views/ucan-admin-options-form.php:46
+msgid "Default Category for submitted posts:"
+msgstr "Категория по-подразбиране за публикуване на пост:"
+
+#: .\views/ucan-admin-options-form.php:57
+msgid "(Default = Uncategorized)"
+msgstr "(По-подразбиране =  Без категория)"
+
+#: .\views/ucan-admin-options-form.php:62
+msgid "Category ID's to exclude from users:"
+msgstr "ID на категории за да изключи за потребители:"
+
+#: .\views/ucan-admin-options-form.php:63
+msgid "Use a comma separated list of ID's (EX: 0, 5, 9, ...)"
+msgstr "Използвайте ID на категорията и  разделени със запетая (Пример: 0, 5, 9, ...)"
+
+#: .\views/ucan-admin-options-form.php:67
+#: .\views/ucan-admin-options-form.php:131
+msgid "(Default = None)"
+msgstr "(По-подразбиране = Няма)"
+
+#: .\views/ucan-admin-options-form.php:72
+msgid "Set the Post Author to the name of the User who submitted it:"
+msgstr "Задайте иметона  на Автор за потребителя, който я подава:"
+
+#: .\views/ucan-admin-options-form.php:80
+msgid "Default Author for submitted posts:"
+msgstr "По-подразбиране Автор на който ще се изпращат новите постове:"
+
+#: .\views/ucan-admin-options-form.php:81
+msgid "If the above option is selected this option will only be used for guest submissions"
+msgstr "Ако по-горе е избрана опцията тази възможност ще бъде използвана само за гости изявления"
+
+#: .\views/ucan-admin-options-form.php:93
+msgid "(Default = admin)"
+msgstr "(По-подразбиране = администратор)"
+
+#: .\views/ucan-admin-options-form.php:98
+msgid "Allow users to edit their own posts:"
+msgstr "Позволява на потребителите да редактират собствените си постове:"
+
+#: .\views/ucan-admin-options-form.php:99
+msgid "Above option must be enabled for this to work"
+msgstr "Трябва да е отметнато за да работи това."
+
+#: .\views/ucan-admin-options-form.php:108
+msgid "Append Guest name to post:"
+msgstr "Добавяне на потребителското име в публикацията:"
+
+#: .\views/ucan-admin-options-form.php:109
+msgid "Adds guests name to the bottom of the submission"
+msgstr "Името се добавя се в дъното на поста"
+
+#: .\views/ucan-admin-options-form.php:118
+msgid "Allow submitter to enter post tags:"
+msgstr "Дава възможност да се поставят етикети за поста:"
+
+#: .\views/ucan-admin-options-form.php:126
+msgid "Default tags to use for submissions:"
+msgstr "По-подразбиране етикети да се използва за поста:"
+
+#: .\views/ucan-admin-options-form.php:127
+msgid "Use a comma separated list (EX: pizza, rice, olives, ...)"
+msgstr "Използвайте разделени със запетая (Пример: пица, ориз, маслини, ...)"
+
+#: .\views/ucan-admin-options-form.php:136
+msgid "Allow submitter to create a post excerpt:"
+msgstr " Дава възможност на подателя да създаде откъс за поста:"
+
+#: .\views/ucan-admin-options-form.php:144
+msgid "Allow comments on submitted posts:"
+msgstr "Разрешаване на коментарите."
+
+#: .\views/ucan-admin-options-form.php:152
+msgid "Allow Trackbacks/Pingbacks on submitted posts:"
+msgstr "Позволяване на  Trackbacks/Pingbacks  на поста:"
+
+#: .\views/ucan-admin-options-form.php:160
+msgid "Moderate new posts:"
+msgstr "Модерация на новия пост:"
+
+#: .\views/ucan-admin-options-form.php:168
+msgid "Allow uploads on sumbission:"
+msgstr "Позволете качване на файлове:"
+
+#: .\views/ucan-admin-options-form.php:169
+msgid "NOTE: For security reasons, only registered members can upload files"
+msgstr "Забележка: От съображения за сигурност, само регистрирани потребители могат да качват файлове"
+
+#: .\views/ucan-admin-options-form.php:178
+msgid "Force uploads javascript:"
+msgstr "Качване със JavaScript:"
+
+#: .\views/ucan-admin-options-form.php:179
+msgid "NOTE: Leave this off unless you have problems with the media uploader"
+msgstr "Забележка: Оставете тази опция не маркирана, ако имате проблеми с медия качване."
+
+#: .\views/ucan-admin-options-form.php:188
+msgid "Show CAPTCHA image:"
+msgstr "Покажи снимка CAPTCHA:"
+
+#: .\views/ucan-admin-options-form.php:189
+msgid "If you are allowing guests to post, it is recommended that you enable this"
+msgstr "Ако вие позволявате на гостите да публикувате препоръчително да активирате тази функция."
+
+#: .\views/ucan-admin-options-form.php:198
+msgid "Recieve an Email when a new post is submitted:"
+msgstr "Получаване на  Email, когато е подаден нов пост:"
+
+#: .\views/ucan-admin-options-form.php:206
+msgid "Email User When Their Submission Is Approved:"
+msgstr "Изпращане на Email на потребителя когато поста му бъде удобрен:"
+
+#: .\views/ucan-admin-options-form.php:207
+msgid "For this to work you must approve the post through the submissions area of this plugin"
+msgstr "За да работи това трябва поста да е публикуван с този плъгин."
+
+#: .\views/ucan-admin-options-form.php:218
+msgid "Save Options"
+msgstr "Запази настройките "
+
+#: .\views/ucan-admin-options-form.php:225
+msgid "uCan Post -- Setup Instructions"
+msgstr "uCan Post -- Инструкции за настройките"
+
+#: .\views/ucan-admin-options-form.php:228
+msgid "Create a new page (this is the page where your users will submit posts from)"
+msgstr "Създаване на нова страница (това е страницата, на която потребителите ще предоставят публикациите си )"
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "Paste"
+msgstr "Поставете "
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "under the HTML tab of the page editor"
+msgstr "в раздела HTML редактор на страницата"
+
+#: .\views/ucan-admin-options-form.php:230
+msgid "Publish the page"
+msgstr "Публикувайте страницата"
+
+#: .\views/ucan-admin-options-form.php:231
+msgid "Setup your admin settings the way you wish and save"
+msgstr "Задайте свой администраторски настройки, по ваш избор и запазете."
+
+#: .\views/ucan-admin-options-form.php:232
+msgid "Done! Pretty easy eh?"
+msgstr "Готово! Доста лесно нали?"
+
+#: .\views/ucan-admin-options-saved.php:1
+msgid "Options successfully saved"
+msgstr "Опциите са записани успешно"
+
+#: .\views/ucan-admin-post-published.php:1
+msgid "The post was successfully published!"
+msgstr "Поста е публикуван успешно!"
+
+#: .\views/ucan-admin-submissions-page.php:2
+msgid "uCan Post -- Submissions"
+msgstr "uCan Post -- Материали"
+
+#: .\views/ucan-admin-submissions-page.php:7
+#: ucan-post-class.php:171
+msgid "Submissions"
+msgstr "Материали"
+
+#: .\views/ucan-admin-submissions-page.php:8
+msgid "Submitter Name"
+msgstr "Име на подателя"
+
+#: .\views/ucan-admin-submissions-page.php:9
+msgid "Submitter Email"
+msgstr " Email на подателя"
+
+#: .\views/ucan-admin-submissions-page.php:10
+msgid "Type"
+msgstr "Тип"
+
+#: .\views/ucan-admin-submissions-page.php:28
+msgid "View"
+msgstr "Преглед"
+
+#: .\views/ucan-admin-submissions-page.php:29
+msgid "Edit"
+msgstr "Редактиране"
+
+#: .\views/ucan-admin-submissions-page.php:32
+#: .\views/ucan-submission-form.php:126
+msgid "Publish"
+msgstr "Публикуване"
+
+#: .\views/ucan-admin-submissions-page.php:47
+msgid "No submissions have been made"
+msgstr "Няма още изпратени публикации."
+
+#: .\views/ucan-edit-post-form.php:6
+#: .\views/ucan-submission-form.php:27
+msgid "Post Title"
+msgstr "Заглавие за публикацията"
+
+#: .\views/ucan-edit-post-form.php:7
+#: .\views/ucan-edit-post-form.php:29
+#: .\views/ucan-submission-form.php:28
+#: .\views/ucan-submission-form.php:50
+#: .\views/ucan-submission-form.php:110
+msgid "(required)"
+msgstr "(Задължително)"
+
+#: .\views/ucan-edit-post-form.php:18
+#: .\views/ucan-submission-form.php:39
+msgid "Post Excerpt"
+msgstr "Откъс от публикацията"
+
+#: .\views/ucan-edit-post-form.php:28
+#: .\views/ucan-submission-form.php:49
+msgid "Post Content"
+msgstr "Съдаржание на публикациата"
+
+#: .\views/ucan-edit-post-form.php:43
+msgid "Click Update below to submit your changes"
+msgstr "Щракнете върху Обнови по-долу, за да изпратите вашите промени."
+
+#: .\views/ucan-edit-post-form.php:47
+msgid "Update"
+msgstr "Обнови"
+
+#: .\views/ucan-preview.php:3
+msgid "Post Preview Area"
+msgstr "Преглед на публикацията"
+
+#: .\views/ucan-preview.php:4
+msgid "You can continue editing below the preview area"
+msgstr "Можете да продължите да редактирате, по-долу в областта за преглед на публикацията."
+
+#: .\views/ucan-publish.php:3
+msgid "Congratulations, your post was submitted successfully!"
+msgstr "Поздравления, вашият пост беше изпратен успешно!"
+
+#: .\views/ucan-publish.php:13
+msgid "Your post is awaiting moderation and should be available soon."
+msgstr "Публикацията ви очаква модерация и трябва да бъде достъпна скоро ... -"
+
+#: .\views/ucan-publish.php:19
+msgid "View My Submission"
+msgstr "Преглед на моите файлове."
+
+#: .\views/ucan-publish.php:23
+#: .\views/ucan-updated-post.php:12
+msgid "What would you like to do next?"
+msgstr "Какво бихте искали да правите сега?"
+
+#: .\views/ucan-publish.php:24
+#: .\views/ucan-updated-post.php:13
+msgid "Visit Home Page"
+msgstr "Посетете Начална страница"
+
+#: .\views/ucan-publish.php:24
+msgid "Create Another Post"
+msgstr "Създаване на още една публикация"
+
+#: .\views/ucan-submission-form.php:10
+msgid "Name"
+msgstr "Име"
+
+#: .\views/ucan-submission-form.php:11
+#: .\views/ucan-submission-form.php:17
+msgid "(required - not shown publically)"
+msgstr "(Задължително - не се показва публично)"
+
+#: .\views/ucan-submission-form.php:16
+msgid "Email"
+msgstr "Email"
+
+#: .\views/ucan-submission-form.php:68
+msgid "Post Category"
+msgstr "Категория за поста"
+
+#: .\views/ucan-submission-form.php:90
+msgid "Post Tags"
+msgstr "Етикети за поста"
+
+#: .\views/ucan-submission-form.php:91
+msgid "(separate tags by comma)"
+msgstr "(Отделни етикетите със запетая)"
+
+#: .\views/ucan-submission-form.php:109
+msgid "Image Verification"
+msgstr "Проверка на изображението"
+
+#: .\views/ucan-submission-form.php:122
+msgid "Click Publish below to submit your post"
+msgstr "Щракнете върху Публикуване по-долу, за да изпратите своята публикация."
+
+#: .\views/ucan-unknown-error.php:1
+msgid "A fatal, unknown error has occured!"
+msgstr "Фатална край, възникна неизвестна грешка!"
+
+#: .\views/ucan-updated-post.php:3
+msgid "Congratulations, your post was successfully updated"
+msgstr "Поздравления, вашият пост беше изпратен успешно!"
+
+#: .\views/ucan-updated-post.php:8
+msgid "View The Post"
+msgstr "Виж този Пост"
+
+#: .\views/ucan-updated-post.php:13
+msgid "Create A New Post"
+msgstr "Напиши нова публикация"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Upload/Insert"
+msgstr "Качване/Вмъкване"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add an Image"
+msgstr "Добави изображение"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Video"
+msgstr "Добави видео"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Audio"
+msgstr "Добави аудио"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Media"
+msgstr "Добави медия"
+
+#: ucan-post-class.php:169
+#: ucan-post-class.php:170
+msgid "uCan Post - Options"
+msgstr "uCan Post --  Настройки"
+
+#: ucan-post-class.php:170
+msgid "Options"
+msgstr "Настройки"
+
+#: ucan-post-class.php:171
+msgid "uCan Post - Submissions"
+msgstr "uCan Post -- Материали"
+
+#: ucan-post-class.php:291
+msgid "You must enter a title!"
+msgstr "Трябва да напишете заглавие ! "
+
+#: ucan-post-class.php:293
+msgid "You must enter some content!"
+msgstr "Трябва да напишете някакво съдържание !"
+
+#: ucan-post-class.php:296
+msgid "Image verification did not match!"
+msgstr "Проверката на изображението не съвпадна!"
+
+#: ucan-post-class.php:298
+msgid "You must enter your name!"
+msgstr "Трябва да въведете вашето име !"
+
+#: ucan-post-class.php:300
+msgid "You must enter a valid email address!"
+msgstr "Трябва да въведете валиден емайл адрес!"
+
+#: ucan-post-class.php:345
+msgid "By:"
+msgstr "От:"
+
+#: ucan-post-class.php:472
+msgid "Edit your submission"
+msgstr "Редактирай публикацията си"
+
+#: ucan-post-class.php:519
+msgid "login"
+msgstr "влезте"
+
+#: ucan-post-class.php:519
+msgid "or"
+msgstr "или се"
+
+#: ucan-post-class.php:519
+msgid "register"
+msgstr "регистрирайте"
+
+#: ucan-post-class.php:547
+msgid "Only registered users have permission to view this form. Please"
+msgstr "Само регистрирани потребители имат разрешение за разглеждане на тази форма.Моля "
+
+#: ucan-post-class.php:584
+msgid "A new post has been submitted on your site. Follow the link below to view it. Do not forget to Publish the post if you are moderating new submissions."
+msgstr "Нов пост е представен на сайта Ви. Следвайте връзката по-долу за да го видите. Не забравяйте да публикува пост, ако сте с Модераторски права."
+
+#: ucan-post-class.php:584
+#: ucan-post-class.php:601
+msgid "View Submission"
+msgstr "Преглед на материалите"
+
+#: ucan-post-class.php:586
+msgid "New Post Submission"
+msgstr "Напиши нова публикация"
+
+#: ucan-post-class.php:601
+msgid "Your post was published. Follow the link below to view it."
+msgstr "Вашата публикация е публикувана. Следвайте връзката по-долу за да я видите."
+
+#: ucan-post-class.php:603
+msgid "Post Published"
+msgstr "Публикуване на пост"
+

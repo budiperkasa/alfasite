@@ -1,0 +1,1611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mingle Forum\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-27 18:28-0700\n"
+"PO-Revision-Date: 2011-09-27 18:28-0700\n"
+"Last-Translator: Paul <cartpauj@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\\fs-admin\n"
+
+#: feed.php:24
+#: feed.php:25
+msgid "Forum Feed"
+msgstr ""
+
+#: feed.php:29
+msgid "Forum Topic:"
+msgstr ""
+
+#: feed.php:30
+#: wpf.class.php:1826
+#: wpf_define.php:34
+msgid "Forum"
+msgstr ""
+
+#: feed.php:30
+#: wpf.class.php:866
+msgid "Topic: "
+msgstr ""
+
+#: feed.php:71
+msgid "Feeds are disabled"
+msgstr ""
+
+#: wpf-edit-profile.php:12
+msgid "No such user"
+msgstr ""
+
+#: wpf-edit-profile.php:27
+msgid "You have no subscriptions at this time"
+msgstr ""
+
+#: wpf-edit-profile.php:31
+msgid "Edit forum options"
+msgstr ""
+
+#: wpf-edit-profile.php:36
+msgid "Allow others to view my profile?"
+msgstr ""
+
+#: wpf-edit-profile.php:39
+msgid "Edit Signature:"
+msgstr ""
+
+#: wpf-edit-profile.php:44
+msgid "You have email notifications for these topics:"
+msgstr ""
+
+#: wpf-edit-profile.php:47
+#: fs-admin/fs-admin.php:565
+msgid "Save options"
+msgstr ""
+
+#: wpf-edit-profile.php:53
+#: wpf.class.php:621
+#: wpf.class.php:2089
+#: wpf.class.php:2115
+#: wpf.class.php:2133
+#: wpf.class.php:2155
+#: wpf.class.php:2164
+#: wpf.class.php:2223
+msgid "Cheating, are we?"
+msgstr ""
+
+#: wpf-insert.php:21
+msgid "Oops only Administrators can post in this Forum!"
+msgstr ""
+
+#: wpf-insert.php:113
+msgid "Security code does not match"
+msgstr ""
+
+#: wpf-insert.php:128
+#: wpf-insert.php:133
+#: wpf-insert.php:204
+#: wpf-insert.php:209
+#: wpf-insert.php:263
+#: wpf-insert.php:268
+msgid "An error occured"
+msgstr ""
+
+#: wpf-insert.php:129
+#: wpf-insert.php:205
+#: wpf-insert.php:264
+msgid "You must enter a subject"
+msgstr ""
+
+#: wpf-insert.php:134
+#: wpf-insert.php:210
+#: wpf-insert.php:269
+msgid "You must enter a message"
+msgstr ""
+
+#: wpf-insert.php:153
+msgid "created the forum topic:"
+msgstr ""
+
+#: wpf-insert.php:221
+msgid "replied to the forum topic:"
+msgstr ""
+
+#: wpf-post.php:10
+msgid "Quote from"
+msgstr ""
+
+#: wpf-post.php:10
+#: wpf.class.php:685
+#: wpf.class.php:694
+#: wpf.class.php:1174
+msgid "on"
+msgstr ""
+
+#: wpf-post.php:20
+#: wpf.class.php:1299
+#: wpf.class.php:1872
+msgid "Post Reply"
+msgstr ""
+
+#: wpf-post.php:23
+#: wpf-post.php:76
+#: wpf-thread.php:13
+msgid "Subject:"
+msgstr ""
+
+#: wpf-post.php:24
+#: wpf.class.php:919
+msgid "Re:"
+msgstr ""
+
+#: wpf-post.php:27
+#: wpf-post.php:80
+#: wpf-thread.php:17
+msgid "Message:"
+msgstr ""
+
+#: wpf-post.php:40
+#: wpf-thread.php:30
+msgid "Images:"
+msgstr ""
+
+#: wpf-post.php:51
+#: wpf-thread.php:41
+msgid "Submit"
+msgstr ""
+
+#: wpf-post.php:73
+#: wpf.class.php:1296
+#: wpf.class.php:1875
+msgid "Edit Post"
+msgstr ""
+
+#: wpf-post.php:89
+msgid "Save Post"
+msgstr ""
+
+#: wpf-thread.php:10
+msgid "Post new Topic"
+msgstr ""
+
+#: wpf-thread.php:49
+msgid "Sorry. you don't have permission to post."
+msgstr ""
+
+#: wpf.class.php:158
+#: fs-admin/fs-admin.php:450
+msgid "Newbie"
+msgstr ""
+
+#: wpf.class.php:159
+#: fs-admin/fs-admin.php:454
+msgid "Beginner"
+msgstr ""
+
+#: wpf.class.php:160
+#: fs-admin/fs-admin.php:462
+msgid "Advanced"
+msgstr ""
+
+#: wpf.class.php:161
+#: fs-admin/fs-admin.php:470
+msgid "Pro"
+msgstr ""
+
+#: wpf.class.php:180
+#: wpf.class.php:181
+msgid "Mingle Forum - Options"
+msgstr ""
+
+#: wpf.class.php:181
+msgid "Options"
+msgstr ""
+
+#: wpf.class.php:182
+msgid "Ads"
+msgstr ""
+
+#: wpf.class.php:183
+msgid "Skins"
+msgstr ""
+
+#: wpf.class.php:184
+msgid "Forum Structure - Categories & Forums"
+msgstr ""
+
+#: wpf.class.php:184
+msgid "Forum Structure"
+msgstr ""
+
+#: wpf.class.php:185
+msgid "Moderators"
+msgstr ""
+
+#: wpf.class.php:186
+msgid "User Groups"
+msgstr ""
+
+#: wpf.class.php:187
+msgid "About"
+msgstr ""
+
+#: wpf.class.php:198
+#: wpf.class.php:199
+msgid "Forums Latest Activity"
+msgstr ""
+
+#: wpf.class.php:218
+#: wpf.class.php:238
+msgid "by:"
+msgstr ""
+
+#: wpf.class.php:255
+msgid "Title to display in the sidebar:"
+msgstr ""
+
+#: wpf.class.php:257
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: wpf.class.php:652
+msgid "Page loaded in:"
+msgstr ""
+
+#: wpf.class.php:652
+msgid "seconds."
+msgstr ""
+
+#: wpf.class.php:655
+msgid "Mingle Forum "
+msgstr ""
+
+#: wpf.class.php:656
+msgid "Version:"
+msgstr ""
+
+#: wpf.class.php:676
+#: wpf.class.php:2287
+msgid "Guest"
+msgstr ""
+
+#: wpf.class.php:685
+#: wpf.class.php:1173
+msgid "by"
+msgstr ""
+
+#: wpf.class.php:694
+msgid "Latest Post by"
+msgstr ""
+
+#: wpf.class.php:717
+#: wpf.class.php:848
+msgid "Sorry, but you don't have access to this forum"
+msgstr ""
+
+#: wpf.class.php:727
+#: wpf.class.php:2375
+msgid "Status"
+msgstr ""
+
+#: wpf.class.php:728
+#: wpf.class.php:2376
+msgid "Topic Title"
+msgstr ""
+
+#: wpf.class.php:729
+#: wpf.class.php:2377
+#: wpf.class.php:2568
+msgid "Started by"
+msgstr ""
+
+#: wpf.class.php:730
+#: wpf.class.php:2378
+msgid "Replies"
+msgstr ""
+
+#: wpf.class.php:731
+msgid "Views"
+msgstr ""
+
+#: wpf.class.php:732
+#: wpf.class.php:1173
+#: wpf.class.php:2379
+msgid "Last post"
+msgstr ""
+
+#: wpf.class.php:736
+msgid "Sticky Topics"
+msgstr ""
+
+#: wpf.class.php:740
+#: wpf.class.php:742
+#: wpf.class.php:786
+#: wpf.class.php:788
+#: wpf.class.php:1660
+#: wpf.class.php:1677
+msgid "Move Topic"
+msgstr ""
+
+#: wpf.class.php:740
+#: wpf.class.php:742
+#: wpf.class.php:786
+#: wpf.class.php:788
+msgid "Delete Topic"
+msgstr ""
+
+#: wpf.class.php:752
+#: wpf.class.php:781
+msgid "New posts since last visit"
+msgstr ""
+
+#: wpf.class.php:769
+msgid "Forum Topics"
+msgstr ""
+
+#: wpf.class.php:836
+msgid "Remove this topic from your email notifications?"
+msgstr ""
+
+#: wpf.class.php:838
+msgid "Add this topic to your email notifications?"
+msgstr ""
+
+#: wpf.class.php:859
+msgid "TOPIC CLOSED"
+msgstr ""
+
+#: wpf.class.php:865
+msgid "Author"
+msgstr ""
+
+#: wpf.class.php:881
+#: wpf.class.php:2434
+msgid "Posts:"
+msgstr ""
+
+#: wpf.class.php:917
+msgid "Quick Reply"
+msgstr ""
+
+#: wpf.class.php:926
+msgid "Submit Quick Reply"
+msgstr ""
+
+#: wpf.class.php:948
+#: wpf_define.php:36
+msgid "Post"
+msgstr ""
+
+#: wpf.class.php:951
+msgid "on:"
+msgstr ""
+
+#: wpf.class.php:955
+#: wpf.class.php:964
+#: wpf.class.php:2303
+msgid "Quote"
+msgstr ""
+
+#: wpf.class.php:957
+#: wpf.class.php:966
+#: fs-admin/fs-admin.php:152
+#: fs-admin/fs-admin.php:983
+msgid "Remove"
+msgstr ""
+
+#: wpf.class.php:959
+#: wpf.class.php:968
+msgid "Edit"
+msgstr ""
+
+#: wpf.class.php:1042
+#: wpf.class.php:1093
+msgid "Topics: "
+msgstr ""
+
+#: wpf.class.php:1042
+#: wpf.class.php:1093
+msgid "Posts: "
+msgstr ""
+
+#: wpf.class.php:1052
+#: wpf.class.php:1103
+msgid "New posts"
+msgstr ""
+
+#: wpf.class.php:1052
+#: wpf.class.php:1103
+msgid "No new posts"
+msgstr ""
+
+#: wpf.class.php:1052
+msgid "Mark All Read"
+msgstr ""
+
+#: wpf.class.php:1171
+msgid "No topics yet"
+msgstr ""
+
+#: wpf.class.php:1174
+msgid "in"
+msgstr ""
+
+#: wpf.class.php:1225
+msgid "Forums RSS"
+msgstr ""
+
+#: wpf.class.php:1236
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: wpf.class.php:1290
+#: wpf.class.php:1865
+msgid "Search Results"
+msgstr ""
+
+#: wpf.class.php:1293
+msgid "Profile"
+msgstr ""
+
+#: wpf.class.php:1302
+#: wpf.class.php:1522
+#: wpf.class.php:1654
+#: wpf.class.php:1671
+#: wpf.class.php:1878
+msgid "New Topic"
+msgstr ""
+
+#: wpf.class.php:1369
+msgid "Moderators:"
+msgstr ""
+
+#: wpf.class.php:1545
+#: wpf.class.php:1558
+#: wpf.class.php:1657
+#: wpf.class.php:1674
+msgid "Undo Sticky"
+msgstr ""
+
+#: wpf.class.php:1547
+#: wpf.class.php:1560
+#: wpf.class.php:1656
+#: wpf.class.php:1673
+msgid "Sticky"
+msgstr ""
+
+#: wpf.class.php:1550
+#: wpf.class.php:1563
+#: wpf.class.php:1659
+#: wpf.class.php:1676
+msgid "Re-open"
+msgstr ""
+
+#: wpf.class.php:1552
+#: wpf.class.php:1565
+#: wpf.class.php:1658
+#: wpf.class.php:1675
+msgid "Close"
+msgstr ""
+
+#: wpf.class.php:1572
+#: wpf.class.php:1653
+#: wpf.class.php:1670
+msgid "Reply"
+msgstr ""
+
+#: wpf.class.php:1579
+#: wpf.class.php:1595
+msgid "Unsubscribe"
+msgstr ""
+
+#: wpf.class.php:1581
+#: wpf.class.php:1597
+msgid "Subscribe"
+msgstr ""
+
+#: wpf.class.php:1584
+msgid "RSS feed"
+msgstr ""
+
+#: wpf.class.php:1600
+#: wpf.class.php:1655
+#: wpf.class.php:1672
+msgid "RSS-Feed"
+msgstr ""
+
+#: wpf.class.php:1638
+#: wpf.class.php:1642
+msgid "My profile"
+msgstr ""
+
+#: wpf.class.php:1638
+#: wpf.class.php:1642
+msgid "My Profile"
+msgstr ""
+
+#: wpf.class.php:1649
+#: wpf.class.php:1666
+msgid "Forum Home"
+msgstr ""
+
+#: wpf.class.php:1650
+#: wpf.class.php:1667
+#: wpf.class.php:1943
+msgid "Log out"
+msgstr ""
+
+#: wpf.class.php:1652
+#: wpf.class.php:1669
+#: wpf.class.php:2477
+msgid "Search"
+msgstr ""
+
+#: wpf.class.php:1740
+msgid "You are logged in as:"
+msgstr ""
+
+#: wpf.class.php:1746
+msgid "Username: "
+msgstr ""
+
+#: wpf.class.php:1747
+msgid "Password: "
+msgstr ""
+
+#: wpf.class.php:1749
+msgid "Remember Me"
+msgstr ""
+
+#: wpf.class.php:1785
+msgid "Administrator"
+msgstr ""
+
+#: wpf.class.php:1789
+msgid "Moderator"
+msgstr ""
+
+#: wpf.class.php:1859
+msgid "New Topics since last visit"
+msgstr ""
+
+#: wpf.class.php:1869
+msgid "Profile Info"
+msgstr ""
+
+#: wpf.class.php:1933
+msgid "Edit Profile"
+msgstr ""
+
+#: wpf.class.php:1937
+#: wpf.class.php:1949
+msgid "Welcome"
+msgstr ""
+
+#: wpf.class.php:1938
+msgid "Your last visit was:"
+msgstr ""
+
+#: wpf.class.php:1940
+msgid "Show new topics since your last visit"
+msgstr ""
+
+#: wpf.class.php:1941
+msgid "Edit your forum options"
+msgstr ""
+
+#: wpf.class.php:1948
+msgid "Welcome Guest, please login or"
+msgstr ""
+
+#: wpf.class.php:1948
+msgid "register."
+msgstr ""
+
+#: wpf.class.php:1953
+msgid "Welcome Guest, posting in this forum requires"
+msgstr ""
+
+#: wpf.class.php:1953
+msgid "registration."
+msgstr ""
+
+#: wpf.class.php:1961
+msgid "Show/Hide Header"
+msgstr ""
+
+#: wpf.class.php:1975
+msgid "Search forums"
+msgstr ""
+
+#: wpf.class.php:2010
+#: wpf.class.php:2041
+msgid "Pages:"
+msgstr ""
+
+#: wpf.class.php:2023
+#: wpf.class.php:2054
+msgid "First"
+msgstr ""
+
+#: wpf.class.php:2034
+#: wpf.class.php:2065
+msgid "Last"
+msgstr ""
+
+#: wpf.class.php:2152
+msgid "Post deleted"
+msgstr ""
+
+#: wpf.class.php:2280
+#: wpf.class.php:2284
+#: fs-admin/fs-admin.php:154
+msgid "View profile"
+msgstr ""
+
+#: wpf.class.php:2298
+msgid "Bold"
+msgstr ""
+
+#: wpf.class.php:2299
+msgid "Italic"
+msgstr ""
+
+#: wpf.class.php:2300
+msgid "Underline"
+msgstr ""
+
+#: wpf.class.php:2301
+msgid "Strikethrough"
+msgstr ""
+
+#: wpf.class.php:2302
+msgid "Code"
+msgstr ""
+
+#: wpf.class.php:2304
+msgid "List"
+msgstr ""
+
+#: wpf.class.php:2305
+msgid "List item"
+msgstr ""
+
+#: wpf.class.php:2306
+msgid "Link"
+msgstr ""
+
+#: wpf.class.php:2307
+msgid "Image"
+msgstr ""
+
+#: wpf.class.php:2308
+msgid "Email"
+msgstr ""
+
+#: wpf.class.php:2309
+msgid "Add Hex Color"
+msgstr ""
+
+#: wpf.class.php:2310
+msgid "Embed YouTube Video"
+msgstr ""
+
+#: wpf.class.php:2311
+msgid "Embed Google Map"
+msgstr ""
+
+#: wpf.class.php:2317
+msgid "Smile"
+msgstr ""
+
+#: wpf.class.php:2318
+msgid "Big Grin"
+msgstr ""
+
+#: wpf.class.php:2319
+msgid "Sad"
+msgstr ""
+
+#: wpf.class.php:2320
+msgid "Neutral"
+msgstr ""
+
+#: wpf.class.php:2321
+msgid "Razz"
+msgstr ""
+
+#: wpf.class.php:2322
+msgid "Mad"
+msgstr ""
+
+#: wpf.class.php:2323
+msgid "Confused"
+msgstr ""
+
+#: wpf.class.php:2324
+msgid "Eek!"
+msgstr ""
+
+#: wpf.class.php:2325
+msgid "Wink"
+msgstr ""
+
+#: wpf.class.php:2326
+msgid "Surprised"
+msgstr ""
+
+#: wpf.class.php:2327
+msgid "Cool"
+msgstr ""
+
+#: wpf.class.php:2339
+msgid "Info Center"
+msgstr ""
+
+#: wpf.class.php:2346
+msgid "Posts in"
+msgstr ""
+
+#: wpf.class.php:2346
+msgid "Topics Made by"
+msgstr ""
+
+#: wpf.class.php:2346
+#: fs-admin/fs-admin.php:146
+msgid "Members"
+msgstr ""
+
+#: wpf.class.php:2346
+msgid "Latest Member:"
+msgstr ""
+
+#: wpf.class.php:2372
+msgid "New topics since your last visit"
+msgstr ""
+
+#: wpf.class.php:2419
+msgid "Summary"
+msgstr ""
+
+#: wpf.class.php:2425
+#: wpf.class.php:2711
+#: fs-admin/wpf-add-forum.php:10
+msgid "Name:"
+msgstr ""
+
+#: wpf.class.php:2430
+msgid "Registered:"
+msgstr ""
+
+#: wpf.class.php:2438
+msgid "Position:"
+msgstr ""
+
+#: wpf.class.php:2441
+msgid "Website:"
+msgstr ""
+
+#: wpf.class.php:2445
+msgid "AIM:"
+msgstr ""
+
+#: wpf.class.php:2449
+msgid "Yahoo:"
+msgstr ""
+
+#: wpf.class.php:2452
+msgid "Jabber/google Talk:"
+msgstr ""
+
+#: wpf.class.php:2456
+msgid "Biographical Info:"
+msgstr ""
+
+#: wpf.class.php:2481
+msgid "Search for:"
+msgstr ""
+
+#: wpf.class.php:2485
+msgid "By user:"
+msgstr ""
+
+#: wpf.class.php:2490
+msgid "Message Age:"
+msgstr ""
+
+#: wpf.class.php:2491
+msgid "Between"
+msgstr ""
+
+#: wpf.class.php:2491
+msgid "and"
+msgstr ""
+
+#: wpf.class.php:2491
+msgid "days"
+msgstr ""
+
+#: wpf.class.php:2497
+msgid "Click to choose Forum(s) to  search"
+msgstr ""
+
+#: wpf.class.php:2519
+msgid "Check all"
+msgstr ""
+
+#: wpf.class.php:2524
+msgid "Start Search"
+msgstr ""
+
+#: wpf.class.php:2566
+msgid "Subject"
+msgstr ""
+
+#: wpf.class.php:2567
+msgid "Relevance"
+msgstr ""
+
+#: wpf.class.php:2569
+msgid "Posted"
+msgstr ""
+
+#: wpf.class.php:2635
+msgid "Closed topic"
+msgstr ""
+
+#: wpf.class.php:2638
+msgid "Normal topic"
+msgstr ""
+
+#: wpf.class.php:2641
+msgid "Hot topic"
+msgstr ""
+
+#: wpf.class.php:2644
+msgid "Very Hot topic"
+msgstr ""
+
+#: wpf.class.php:2676
+msgid "Security Code:"
+msgstr ""
+
+#: wpf.class.php:2695
+msgid "Enter Security Code: (required)"
+msgstr ""
+
+#: wpf.class.php:2709
+msgid "New post in forum:"
+msgstr ""
+
+#: wpf.class.php:2710
+msgid "DETAILS:"
+msgstr ""
+
+#: wpf.class.php:2713
+msgid "Date:"
+msgstr ""
+
+#: wpf.class.php:2714
+msgid "Reply Content:"
+msgstr ""
+
+#: wpf.class.php:2715
+msgid "View Topic Here:"
+msgstr ""
+
+#: wpf.class.php:2764
+#: wpf.class.php:2774
+msgid "Inbox"
+msgstr ""
+
+#: wpf.class.php:2790
+#: wpf.class.php:2803
+msgid "Send Message"
+msgstr ""
+
+#: wpf.class.php:2982
+msgid "Mingle Forum Post Options"
+msgstr ""
+
+#: wpf.class.php:2988
+msgid "Add this post to"
+msgstr ""
+
+#: wpf.class.php:2992
+msgid "Do not check this if this post has already been linked to the forum!"
+msgstr ""
+
+#: wpf.class.php:3024
+msgid "Join the Forum discussion on this post"
+msgstr ""
+
+#: wpf_define.php:33
+msgid "Category"
+msgstr ""
+
+#: wpf_define.php:35
+msgid "Topic"
+msgstr ""
+
+#: fs-admin/fs-admin.php:32
+msgid "You must specify a user group name."
+msgstr ""
+
+#: fs-admin/fs-admin.php:34
+#: fs-admin/fs-admin.php:706
+msgid "You have choosen a name that already exists in the database, please specify another"
+msgstr ""
+
+#: fs-admin/fs-admin.php:36
+msgid "User Group successfully added."
+msgstr ""
+
+#: fs-admin/fs-admin.php:54
+msgid "You haven't specified any user to add:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:58
+msgid "You must choose a user group"
+msgstr ""
+
+#: fs-admin/fs-admin.php:65
+msgid "Error"
+msgstr ""
+
+#: fs-admin/fs-admin.php:65
+msgid "No such user:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:69
+msgid "Warning"
+msgstr ""
+
+#: fs-admin/fs-admin.php:69
+#: fs-admin/fs-admin.php:73
+msgid "User"
+msgstr ""
+
+#: fs-admin/fs-admin.php:69
+msgid "is already in this group"
+msgstr ""
+
+#: fs-admin/fs-admin.php:73
+msgid "added successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:81
+msgid "Errors:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:82
+msgid "Warnings:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:83
+msgid "Users added:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:97
+msgid "User Group(s) successfully deleted."
+msgstr ""
+
+#: fs-admin/fs-admin.php:105
+msgid "Member successfully removed."
+msgstr ""
+
+#: fs-admin/fs-admin.php:111
+msgid "Mingle Forum >> Manage User Groups"
+msgstr ""
+
+#: fs-admin/fs-admin.php:111
+#: fs-admin/fs-admin.php:771
+#: fs-admin/fs-admin.php:969
+msgid "add new"
+msgstr ""
+
+#: fs-admin/fs-admin.php:118
+#: fs-admin/fs-admin.php:825
+msgid "Delete"
+msgstr ""
+
+#: fs-admin/fs-admin.php:158
+#: fs-admin/fs-admin.php:164
+msgid "Add members"
+msgstr ""
+
+#: fs-admin/fs-admin.php:163
+msgid "No members in this group"
+msgstr ""
+
+#: fs-admin/fs-admin.php:223
+msgid "Skin successfully activated."
+msgstr ""
+
+#: fs-admin/fs-admin.php:229
+msgid "Mingle Forum >> Skin options"
+msgstr ""
+
+#: fs-admin/fs-admin.php:230
+msgid "Get More Skins"
+msgstr ""
+
+#: fs-admin/fs-admin.php:231
+msgid "IMPORTANT: As of version 1.0.03 the skins directory has been moved to /wp-content/mingle-forum-skins/"
+msgstr ""
+
+#: fs-admin/fs-admin.php:231
+msgid "Why did you change it?"
+msgstr ""
+
+#: fs-admin/fs-admin.php:234
+msgid "Screenshot"
+msgstr ""
+
+#: fs-admin/fs-admin.php:235
+#: fs-admin/wpf-add-group.php:12
+msgid "Name"
+msgstr ""
+
+#: fs-admin/fs-admin.php:236
+msgid "Version"
+msgstr ""
+
+#: fs-admin/fs-admin.php:237
+#: fs-admin/wpf-add-group.php:13
+msgid "Description"
+msgstr ""
+
+#: fs-admin/fs-admin.php:238
+msgid "Action"
+msgstr ""
+
+#: fs-admin/fs-admin.php:252
+#: fs-admin/fs-admin.php:267
+msgid "In Use"
+msgstr ""
+
+#: fs-admin/fs-admin.php:254
+#: fs-admin/fs-admin.php:269
+msgid "Activate"
+msgstr ""
+
+#: fs-admin/fs-admin.php:297
+msgid "About Mingle Forum"
+msgstr ""
+
+#: fs-admin/fs-admin.php:300
+msgid "Current Version: "
+msgstr ""
+
+#: fs-admin/fs-admin.php:304
+msgid "Mingle Forum has one simple mission; to 'KEEP IT SIMPLE!' It was taken over from WP Forum and has been improved upon GREATLY. It now fully supports integration with or without the Mingle plugin (by Blair Williams). Also I want to give a big thanks to Eric Hamby for his previous work on the forum script."
+msgstr ""
+
+#: fs-admin/fs-admin.php:306
+msgid "Author: "
+msgstr ""
+
+#: fs-admin/fs-admin.php:307
+msgid "Plugin Page:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:308
+msgid "Support Forum:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:309
+msgid "Mingle Forum Skins:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:356
+msgid "Options successfully saved."
+msgstr ""
+
+#: fs-admin/fs-admin.php:361
+msgid "Mingle Forum"
+msgstr ""
+
+#: fs-admin/fs-admin.php:365
+msgid "Statistic"
+msgstr ""
+
+#: fs-admin/fs-admin.php:366
+msgid "Value"
+msgstr ""
+
+#: fs-admin/fs-admin.php:370
+msgid "Number of posts:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:374
+msgid "Number of threads:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:378
+msgid "Number of users:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:382
+msgid "Total database size:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:386
+msgid "Database server:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:390
+msgid "Mingle Forum version:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:395
+msgid "Mingle Forum >> General Options"
+msgstr ""
+
+#: fs-admin/fs-admin.php:400
+msgid "default "
+msgstr ""
+
+#: fs-admin/fs-admin.php:404
+msgid "Option Name"
+msgstr ""
+
+#: fs-admin/fs-admin.php:405
+msgid "Option Input"
+msgstr ""
+
+#: fs-admin/fs-admin.php:410
+msgid "Integrate WordPress Posts with Forum:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:414
+#: fs-admin/fs-admin.php:481
+#: fs-admin/fs-admin.php:504
+#: fs-admin/fs-admin.php:528
+msgid "Off"
+msgstr ""
+
+#: fs-admin/fs-admin.php:418
+msgid "Posts per page:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:422
+msgid "Threads per page:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:428
+msgid "Number of posts for Hot Topic:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:432
+msgid "Number of posts for Very Hot Topic:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:436
+msgid "Username Display:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:449
+msgid "New User's Title:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:453
+msgid "User Level 1 Title:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:457
+msgid "User Level 1 Count:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:458
+msgid "25"
+msgstr ""
+
+#: fs-admin/fs-admin.php:461
+msgid "User Level 2 Title:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:465
+msgid "User Level 2 Count:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:466
+msgid "50"
+msgstr ""
+
+#: fs-admin/fs-admin.php:469
+msgid "User Level 3 Title:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:473
+msgid "User Level 3 Count:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:474
+msgid "100"
+msgstr ""
+
+#: fs-admin/fs-admin.php:477
+msgid "Notify Admin on new posts:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:484
+msgid "Show Forum Login Form:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:488
+#: fs-admin/fs-admin.php:496
+#: fs-admin/fs-admin.php:512
+#: fs-admin/fs-admin.php:520
+#: fs-admin/fs-admin.php:536
+msgid "On"
+msgstr ""
+
+#: fs-admin/fs-admin.php:492
+msgid "Show Avatars in the forum:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:500
+msgid "Allow Images to be uploaded:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:508
+msgid "Show users Signature at the bottom of posts:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:516
+msgid "Use Forum RSS:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:524
+msgid "Use SEO friendly URLs:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:524
+msgid "IMPORTANT: Leave this option off if your permalinks are set to 'default'"
+msgstr ""
+
+#: fs-admin/fs-admin.php:532
+msgid "Registration required to post:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:541
+msgid "Installed version:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:545
+msgid "GD Library is not installed"
+msgstr ""
+
+#: fs-admin/fs-admin.php:548
+msgid "Use Captcha for unregistered users:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:552
+msgid "Requires "
+msgstr ""
+
+#: fs-admin/fs-admin.php:552
+msgid "If you have 'Registration required to post' above enabled, leave this off"
+msgstr ""
+
+#: fs-admin/fs-admin.php:556
+msgid "Date format:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:556
+msgid "Default date:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:556
+msgid "Check "
+msgstr ""
+
+#: fs-admin/fs-admin.php:556
+msgid "for date formatting."
+msgstr ""
+
+#: fs-admin/fs-admin.php:560
+msgid "Closed Categories (Admin posting only):"
+msgstr ""
+
+#: fs-admin/fs-admin.php:560
+msgid "Comma separated list of Category ID's"
+msgstr ""
+
+#: fs-admin/fs-admin.php:677
+msgid "Groups deleted:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:678
+msgid "Forums deleted:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:679
+msgid "Threads deleted:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:680
+msgid "Posts deleted:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:704
+#: fs-admin/fs-admin.php:728
+msgid "You must enter a name"
+msgstr ""
+
+#: fs-admin/fs-admin.php:713
+msgid "Category added successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:725
+msgid "You must select a category"
+msgstr ""
+
+#: fs-admin/fs-admin.php:731
+msgid "You have choosen a forum name that already exists in this group, please specify another"
+msgstr ""
+
+#: fs-admin/fs-admin.php:738
+msgid "Forum added successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:765
+msgid "Mingle Forum >> Categories and Forums "
+msgstr ""
+
+#: fs-admin/fs-admin.php:787
+#: fs-admin/fs-admin.php:817
+msgid "Modify"
+msgstr ""
+
+#: fs-admin/fs-admin.php:826
+msgid "Add forum"
+msgstr ""
+
+#: fs-admin/fs-admin.php:851
+msgid "Group Moved Down"
+msgstr ""
+
+#: fs-admin/fs-admin.php:861
+msgid "Forum Moved Down"
+msgstr ""
+
+#: fs-admin/fs-admin.php:871
+msgid "Group Moved Up"
+msgstr ""
+
+#: fs-admin/fs-admin.php:881
+msgid "Forum Moved Up"
+msgstr ""
+
+#: fs-admin/fs-admin.php:917
+#: fs-admin/fs-admin.php:924
+msgid "Moderator successfully removed."
+msgstr ""
+
+#: fs-admin/fs-admin.php:919
+msgid "Moderator successfully saved."
+msgstr ""
+
+#: fs-admin/fs-admin.php:926
+msgid "Moderator NOT removed."
+msgstr ""
+
+#: fs-admin/fs-admin.php:939
+msgid "You must select a user"
+msgstr ""
+
+#: fs-admin/fs-admin.php:943
+msgid "Global Moderator added successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:947
+msgid "Moderator added successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:969
+msgid "Mingle Forum >> Manage Moderators"
+msgstr ""
+
+#: fs-admin/fs-admin.php:978
+msgid "Currently moderating"
+msgstr ""
+
+#: fs-admin/fs-admin.php:982
+msgid "Update"
+msgstr ""
+
+#: fs-admin/fs-admin.php:992
+msgid "Global moderator: (User can moderate all forums)"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1011
+msgid "No moderators yet"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1036
+msgid "Ads saved successfully"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1041
+msgid "Mingle Forum Ads >> options"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1043
+msgid "HTML is allowed in all ad areas below"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1047
+msgid "Ads Option"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1054
+msgid "Enable Area Above Forum"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1056
+#: fs-admin/fs-admin.php:1064
+#: fs-admin/fs-admin.php:1072
+#: fs-admin/fs-admin.php:1080
+#: fs-admin/fs-admin.php:1088
+#: fs-admin/fs-admin.php:1096
+#: fs-admin/fs-admin.php:1104
+msgid "css-value:"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1062
+msgid "Enable Area Below Forum"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1070
+msgid "Enable Area Above Branding"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1078
+msgid "Enable Area Above Info Center"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1086
+msgid "Enable Area Above Breadcrumbs"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1094
+msgid "Enable Area Above Quick Reply Form"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1102
+msgid "Enable Area Below First Post"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1109
+msgid "Below you can modify/add your own CSS"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1110
+msgid "NOTE: If you do not know what this is for, leave it blank"
+msgstr ""
+
+#: fs-admin/fs-admin.php:1117
+msgid "Save Options"
+msgstr ""
+
+#: fs-admin/wpf-add-forum.php:5
+msgid "Add forum to"
+msgstr ""
+
+#: fs-admin/wpf-add-forum.php:14
+msgid "Description:"
+msgstr ""
+
+#: fs-admin/wpf-add-forum.php:30
+msgid "Save forum"
+msgstr ""
+
+#: fs-admin/wpf-add-group.php:7
+msgid "Add category"
+msgstr ""
+
+#: fs-admin/wpf-add-group.php:21
+msgid "Save category"
+msgstr ""
+
+#: fs-admin/wpf-add-usergroup.php:23
+#: .\fs-admin/wpf-add-usergroup.php:23
+msgid "Save user group"
+msgstr ""
+
+#: fs-admin/wpf-addusers.php:21
+#: .\fs-admin/wpf-addusers.php:21
+msgid "Select User group"
+msgstr ""
+
+#: fs-admin/wpf-addusers.php:31
+#: .\fs-admin/wpf-addusers.php:31
+msgid "Add users"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:12
+#: .\fs-admin/wpf-edit-forum-group.php:12
+msgid "You must specify a group name"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:24
+#: .\fs-admin/wpf-edit-forum-group.php:24
+msgid "Group updated successfully"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:34
+#: .\fs-admin/wpf-edit-forum-group.php:34
+msgid "You must specify a forum name"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:37
+#: .\fs-admin/wpf-edit-forum-group.php:37
+msgid "Forum updated successfully"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:49
+#: .\fs-admin/wpf-edit-forum-group.php:49
+msgid "Edit category"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:63
+#: .\fs-admin/wpf-edit-forum-group.php:63
+msgid "User Groups:"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:66
+#: .\fs-admin/wpf-edit-forum-group.php:66
+msgid "Members of the checked User Groups have access to the forums in this category:"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:98
+#: .\fs-admin/wpf-edit-forum-group.php:98
+msgid "There are no User Groups"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:105
+#: .\fs-admin/wpf-edit-forum-group.php:105
+msgid "Save group"
+msgstr ""
+
+#: fs-admin/wpf-edit-forum-group.php:119
+#: .\fs-admin/wpf-edit-forum-group.php:119
+msgid "Edit forum"
+msgstr ""
+
+#: fs-admin/wpf-moderator.php:19
+#: .\fs-admin/wpf-moderator.php:19
+msgid "Select user"
+msgstr ""
+
+#: fs-admin/wpf-moderator.php:36
+#: .\fs-admin/wpf-moderator.php:36
+msgid "Add moderator"
+msgstr ""
+
+#: fs-admin/wpf-usergroup-edit.php:11
+#: .\fs-admin/wpf-usergroup-edit.php:11
+msgid "You must specify a name for the User Group"
+msgstr ""
+
+#: fs-admin/wpf-usergroup-edit.php:18
+#: .\fs-admin/wpf-usergroup-edit.php:18
+msgid "User Group updated successfully"
+msgstr ""
+
+#: fs-admin/wpf-usergroup-edit.php:25
+#: .\fs-admin/wpf-usergroup-edit.php:25
+msgid "Edit User Group"
+msgstr ""
+
+#: fs-admin/wpf-usergroup-edit.php:39
+#: .\fs-admin/wpf-usergroup-edit.php:39
+msgid "Save User Group"
+msgstr ""
+

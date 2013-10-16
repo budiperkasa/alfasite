@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uCan Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-22 00:51-0700\n"
+"PO-Revision-Date: 2011-01-22 01:03-0700\n"
+"Last-Translator: Paul <cartpauj@yahoo.com>\n"
+"Language-Team: cartpauj\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\\views\n"
+
+#: .\views/ucan-admin-options-form.php:2
+msgid "uCan Post -- Admin Options"
+msgstr "uCan Post -- Opzioni d'Amministrazione"
+
+#: .\views/ucan-admin-options-form.php:7
+msgid "Setting"
+msgstr "Configurazione"
+
+#: .\views/ucan-admin-options-form.php:8
+msgid "Value"
+msgstr "Valore"
+
+#: .\views/ucan-admin-options-form.php:13
+msgid "User Level required to create posts:"
+msgstr "Livello dell'utente richiesto per la creazione di post"
+
+#: .\views/ucan-admin-options-form.php:16
+msgid "Guest"
+msgstr "Ospite"
+
+#: .\views/ucan-admin-options-form.php:17
+msgid "Subscriber"
+msgstr "Sottoscrittore"
+
+#: .\views/ucan-admin-options-form.php:18
+msgid "Contributor"
+msgstr "Contributore"
+
+#: .\views/ucan-admin-options-form.php:19
+msgid "Author"
+msgstr "Autore"
+
+#: .\views/ucan-admin-options-form.php:20
+msgid "Editor"
+msgstr "Editore"
+
+#: .\views/ucan-admin-options-form.php:21
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: .\views/ucan-admin-options-form.php:23
+msgid "(Default = Subscriber)"
+msgstr "(Default = Sottoscrittore)"
+
+#: .\views/ucan-admin-options-form.php:28
+msgid "Use WYSIWYG Editor:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:29
+msgid "Disabling the editor also disables media uploads"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:33
+#: .\views/ucan-admin-options-form.php:75
+#: .\views/ucan-admin-options-form.php:113
+#: .\views/ucan-admin-options-form.php:147
+#: .\views/ucan-admin-options-form.php:155
+#: .\views/ucan-admin-options-form.php:163
+#: .\views/ucan-admin-options-form.php:173
+#: .\views/ucan-admin-options-form.php:201
+msgid "(Default = True)"
+msgstr "(Default = Selezionato)"
+
+#: .\views/ucan-admin-options-form.php:38
+msgid "Allow submitter to select the post category:"
+msgstr "Permetti agli utenti di selezionare la categoria in cui inserire l'articolo"
+
+#: .\views/ucan-admin-options-form.php:41
+#: .\views/ucan-admin-options-form.php:103
+#: .\views/ucan-admin-options-form.php:121
+#: .\views/ucan-admin-options-form.php:139
+#: .\views/ucan-admin-options-form.php:183
+#: .\views/ucan-admin-options-form.php:193
+#: .\views/ucan-admin-options-form.php:211
+msgid "(Default = False)"
+msgstr "(Default = Non permesso)"
+
+#: .\views/ucan-admin-options-form.php:46
+msgid "Default Category for submitted posts:"
+msgstr "Categoria di default in cui verranno inseriti i post:"
+
+#: .\views/ucan-admin-options-form.php:57
+msgid "(Default = Uncategorized)"
+msgstr "(Default = Senza categoria)"
+
+#: .\views/ucan-admin-options-form.php:62
+msgid "Category ID's to exclude from users:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:63
+#, fuzzy
+msgid "Use a comma separated list of ID's (EX: 0, 5, 9, ...)"
+msgstr "Usa la virgola per separare la lista (Ex.: Pizza, Arroz, Azeitonas, ...)"
+
+#: .\views/ucan-admin-options-form.php:67
+#: .\views/ucan-admin-options-form.php:131
+msgid "(Default = None)"
+msgstr "(Default = Nessuno)"
+
+#: .\views/ucan-admin-options-form.php:72
+msgid "Set the Post Author to the name of the User who submitted it:"
+msgstr "Imposta l'autore del post con il nome dell'utente che l'ha inviato:"
+
+#: .\views/ucan-admin-options-form.php:80
+msgid "Default Author for submitted posts:"
+msgstr "Autore di Default per i post inseriti:"
+
+#: .\views/ucan-admin-options-form.php:81
+msgid "If the above option is selected this option will only be used for guest submissions"
+msgstr "Se l'opzione sopra è selezionata questa opzione sarà valida solo per gli invii effettuati dagli Ospiti"
+
+#: .\views/ucan-admin-options-form.php:93
+msgid "(Default = admin)"
+msgstr "(Default = amministratore)"
+
+#: .\views/ucan-admin-options-form.php:98
+#, fuzzy
+msgid "Allow users to edit their own posts:"
+msgstr "Permetti all'utente di inserire tag per il post :"
+
+#: .\views/ucan-admin-options-form.php:99
+msgid "Above option must be enabled for this to work"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:108
+msgid "Append Guest name to post:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:109
+msgid "Adds guests name to the bottom of the submission"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:118
+msgid "Allow submitter to enter post tags:"
+msgstr "Permetti all'utente di inserire tag per il post :"
+
+#: .\views/ucan-admin-options-form.php:126
+msgid "Default tags to use for submissions:"
+msgstr "Tag di default usati per l'invio:"
+
+#: .\views/ucan-admin-options-form.php:127
+msgid "Use a comma separated list (EX: pizza, rice, olives, ...)"
+msgstr "Usa la virgola per separare la lista (Ex.: Pizza, Arroz, Azeitonas, ...)"
+
+#: .\views/ucan-admin-options-form.php:136
+msgid "Allow submitter to create a post excerpt:"
+msgstr "Permetti all'utente di creare un riassunto del post:"
+
+#: .\views/ucan-admin-options-form.php:144
+msgid "Allow comments on submitted posts:"
+msgstr "Permetti i commenti sui post inviati:"
+
+#: .\views/ucan-admin-options-form.php:152
+msgid "Allow Trackbacks/Pingbacks on submitted posts:"
+msgstr "Permetti Trackbacks/Pingbacks sui post:"
+
+#: .\views/ucan-admin-options-form.php:160
+msgid "Moderate new posts:"
+msgstr "Coda di moderazione per i nuovi post:"
+
+#: .\views/ucan-admin-options-form.php:168
+msgid "Allow uploads on sumbission:"
+msgstr "Permetti di caricare file:"
+
+#: .\views/ucan-admin-options-form.php:169
+msgid "NOTE: For security reasons, only registered members can upload files"
+msgstr "NOTA: Per ragioni di sicurezza solo i membri registrati possono caricare file"
+
+#: .\views/ucan-admin-options-form.php:178
+msgid "Force uploads javascript:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:179
+msgid "NOTE: Leave this off unless you have problems with the media uploader"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:188
+msgid "Show CAPTCHA image:"
+msgstr "Mostra un'immagine CAPTCHA:"
+
+#: .\views/ucan-admin-options-form.php:189
+msgid "If you are allowing guests to post, it is recommended that you enable this"
+msgstr "Se stai permettendo agli Ospiti di inviare post, è raccomandato abilitare questa funzione"
+
+#: .\views/ucan-admin-options-form.php:198
+msgid "Recieve an Email when a new post is submitted:"
+msgstr "Ricevi una mail quando nuovi post vengono inviati:"
+
+#: .\views/ucan-admin-options-form.php:206
+msgid "Email User When Their Submission Is Approved:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:207
+msgid "For this to work you must approve the post through the submissions area of this plugin"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:218
+msgid "Save Options"
+msgstr "Salva Opzioni"
+
+#: .\views/ucan-admin-options-form.php:225
+msgid "uCan Post -- Setup Instructions"
+msgstr "uCan Post -- Istruzioni di Setup"
+
+#: .\views/ucan-admin-options-form.php:228
+msgid "Create a new page (this is the page where your users will submit posts from)"
+msgstr "Crea una nuova pagina (sarà quella in cui i tuoi utenti avranno il form per l'invio)"
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "Paste"
+msgstr "Incolla"
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "under the HTML tab of the page editor"
+msgstr "sotto il tab HTML nella pagina dell'editor"
+
+#: .\views/ucan-admin-options-form.php:230
+msgid "Publish the page"
+msgstr "Pubblica la pagina"
+
+#: .\views/ucan-admin-options-form.php:231
+msgid "Setup your admin settings the way you wish and save"
+msgstr "Imposta i settaggi d'amministrazione nel modo che preferisci e salva"
+
+#: .\views/ucan-admin-options-form.php:232
+msgid "Done! Pretty easy eh?"
+msgstr "Fatto! Molto facile eh?"
+
+#: .\views/ucan-admin-options-saved.php:1
+msgid "Options successfully saved"
+msgstr "Opzioni salvate correttamente"
+
+#: .\views/ucan-admin-post-published.php:1
+#, fuzzy
+msgid "The post was successfully published!"
+msgstr "Opzioni salvate correttamente"
+
+#: .\views/ucan-admin-submissions-page.php:2
+msgid "uCan Post -- Submissions"
+msgstr "uCan Post -- Opzioni d'amministrazione"
+
+#: .\views/ucan-admin-submissions-page.php:7
+#: ucan-post-class.php:171
+msgid "Submissions"
+msgstr "Inserimenti"
+
+#: .\views/ucan-admin-submissions-page.php:8
+msgid "Submitter Name"
+msgstr "Nome "
+
+#: .\views/ucan-admin-submissions-page.php:9
+msgid "Submitter Email"
+msgstr "Email"
+
+#: .\views/ucan-admin-submissions-page.php:10
+msgid "Type"
+msgstr "Tipo"
+
+#: .\views/ucan-admin-submissions-page.php:28
+msgid "View"
+msgstr ""
+
+#: .\views/ucan-admin-submissions-page.php:29
+#, fuzzy
+msgid "Edit"
+msgstr "Editore"
+
+#: .\views/ucan-admin-submissions-page.php:32
+#: .\views/ucan-submission-form.php:126
+msgid "Publish"
+msgstr "Pubblica"
+
+#: .\views/ucan-admin-submissions-page.php:47
+msgid "No submissions have been made"
+msgstr "Non è stato inviato alcun post"
+
+#: .\views/ucan-edit-post-form.php:6
+#: .\views/ucan-submission-form.php:27
+msgid "Post Title"
+msgstr "Titolo del Post"
+
+#: .\views/ucan-edit-post-form.php:7
+#: .\views/ucan-edit-post-form.php:29
+#: .\views/ucan-submission-form.php:28
+#: .\views/ucan-submission-form.php:50
+#: .\views/ucan-submission-form.php:110
+msgid "(required)"
+msgstr "(obbligatorio)"
+
+#: .\views/ucan-edit-post-form.php:18
+#: .\views/ucan-submission-form.php:39
+msgid "Post Excerpt"
+msgstr "Riassunto del Post"
+
+#: .\views/ucan-edit-post-form.php:28
+#: .\views/ucan-submission-form.php:49
+msgid "Post Content"
+msgstr "Contenuto"
+
+#: .\views/ucan-edit-post-form.php:43
+#, fuzzy
+msgid "Click Update below to submit your changes"
+msgstr "Clicca \"Pubblica\" qui sotto per inserire il tuo post"
+
+#: .\views/ucan-edit-post-form.php:47
+msgid "Update"
+msgstr ""
+
+#: .\views/ucan-preview.php:3
+msgid "Post Preview Area"
+msgstr "Anteprima Post"
+
+#: .\views/ucan-preview.php:4
+msgid "You can continue editing below the preview area"
+msgstr "Puoi continuare a modificare sotto l'anteprima"
+
+#: .\views/ucan-publish.php:3
+msgid "Congratulations, your post was submitted successfully!"
+msgstr "Congratulazioni, il tuo articolo è stato inserito con successo!"
+
+#: .\views/ucan-publish.php:13
+msgid "Your post is awaiting moderation and should be available soon."
+msgstr "Il tuo post è in coda di moderazione e dovrebbe essere presto disponibile."
+
+#: .\views/ucan-publish.php:19
+msgid "View My Submission"
+msgstr "Vedi il mio post"
+
+#: .\views/ucan-publish.php:23
+#: .\views/ucan-updated-post.php:12
+msgid "What would you like to do next?"
+msgstr "Cosa vuoi fare ora?"
+
+#: .\views/ucan-publish.php:24
+#: .\views/ucan-updated-post.php:13
+msgid "Visit Home Page"
+msgstr "Vai alla Home Page"
+
+#: .\views/ucan-publish.php:24
+msgid "Create Another Post"
+msgstr "Inserisci un altro post"
+
+#: .\views/ucan-submission-form.php:10
+msgid "Name"
+msgstr "Nome"
+
+#: .\views/ucan-submission-form.php:11
+#: .\views/ucan-submission-form.php:17
+msgid "(required - not shown publically)"
+msgstr "(richiesto - non verrà reso pubblico)"
+
+#: .\views/ucan-submission-form.php:16
+msgid "Email"
+msgstr "Email"
+
+#: .\views/ucan-submission-form.php:68
+msgid "Post Category"
+msgstr "Categoria"
+
+#: .\views/ucan-submission-form.php:90
+msgid "Post Tags"
+msgstr "Tags"
+
+#: .\views/ucan-submission-form.php:91
+msgid "(separate tags by comma)"
+msgstr "(separare con la virgola)"
+
+#: .\views/ucan-submission-form.php:109
+msgid "Image Verification"
+msgstr "Immagine di Verifica"
+
+#: .\views/ucan-submission-form.php:122
+msgid "Click Publish below to submit your post"
+msgstr "Clicca \"Pubblica\" qui sotto per inserire il tuo post"
+
+#: .\views/ucan-unknown-error.php:1
+msgid "A fatal, unknown error has occured!"
+msgstr "Un errore fatale, sconosciuto è incorso!"
+
+#: .\views/ucan-updated-post.php:3
+#, fuzzy
+msgid "Congratulations, your post was successfully updated"
+msgstr "Congratulazioni, il tuo articolo è stato inserito con successo!"
+
+#: .\views/ucan-updated-post.php:8
+msgid "View The Post"
+msgstr ""
+
+#: .\views/ucan-updated-post.php:13
+#, fuzzy
+msgid "Create A New Post"
+msgstr "Inserisci un altro post"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Upload/Insert"
+msgstr "Carica/inserisci"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add an Image"
+msgstr "Aggiungi un'immagine"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Video"
+msgstr "Aggiungi Video"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Audio"
+msgstr "Aggiungi Audio"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Media"
+msgstr "Aggiungi Media"
+
+#: ucan-post-class.php:169
+#: ucan-post-class.php:170
+#, fuzzy
+msgid "uCan Post - Options"
+msgstr "uCan Post -- Opzioni d'Amministrazione"
+
+#: ucan-post-class.php:170
+#, fuzzy
+msgid "Options"
+msgstr "Salva Opzioni"
+
+#: ucan-post-class.php:171
+#, fuzzy
+msgid "uCan Post - Submissions"
+msgstr "uCan Post -- Opzioni d'amministrazione"
+
+#: ucan-post-class.php:291
+msgid "You must enter a title!"
+msgstr ""
+
+#: ucan-post-class.php:293
+msgid "You must enter some content!"
+msgstr ""
+
+#: ucan-post-class.php:296
+#, fuzzy
+msgid "Image verification did not match!"
+msgstr "Immagine di Verifica"
+
+#: ucan-post-class.php:298
+msgid "You must enter your name!"
+msgstr ""
+
+#: ucan-post-class.php:300
+msgid "You must enter a valid email address!"
+msgstr ""
+
+#: ucan-post-class.php:345
+msgid "By:"
+msgstr ""
+
+#: ucan-post-class.php:472
+#, fuzzy
+msgid "Edit your submission"
+msgstr "Vedi il mio post"
+
+#: ucan-post-class.php:519
+msgid "login"
+msgstr ""
+
+#: ucan-post-class.php:519
+msgid "or"
+msgstr ""
+
+#: ucan-post-class.php:519
+msgid "register"
+msgstr ""
+
+#: ucan-post-class.php:547
+msgid "Only registered users have permission to view this form. Please"
+msgstr ""
+
+#: ucan-post-class.php:584
+msgid "A new post has been submitted on your site. Follow the link below to view it. Do not forget to Publish the post if you are moderating new submissions."
+msgstr ""
+
+#: ucan-post-class.php:584
+#: ucan-post-class.php:601
+#, fuzzy
+msgid "View Submission"
+msgstr "Vedi il mio post"
+
+#: ucan-post-class.php:586
+#, fuzzy
+msgid "New Post Submission"
+msgstr "Vedi il mio post"
+
+#: ucan-post-class.php:601
+msgid "Your post was published. Follow the link below to view it."
+msgstr ""
+
+#: ucan-post-class.php:603
+#, fuzzy
+msgid "Post Published"
+msgstr "Pubblica"
+

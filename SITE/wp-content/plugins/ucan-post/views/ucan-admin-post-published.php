@@ -1,0 +1,1 @@
+<div id='message' class='updated fade'><p><?php echo __("The post was successfully published!", "ucan-post"); ?></p></div>

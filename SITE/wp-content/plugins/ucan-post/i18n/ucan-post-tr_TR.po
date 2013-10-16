@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ucan-post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-22 00:51-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paul <cartpauj@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#: .\views/ucan-admin-options-form.php:2
+msgid "uCan Post -- Admin Options"
+msgstr "uCan Post -- Yönetici Seçenekleri"
+
+#: .\views/ucan-admin-options-form.php:7
+msgid "Setting"
+msgstr "Ayarlar"
+
+#: .\views/ucan-admin-options-form.php:8
+msgid "Value"
+msgstr "Değer"
+
+#: .\views/ucan-admin-options-form.php:13
+msgid "User Level required to create posts:"
+msgstr "İleti yazabilmesi için gereken en düşük Kullanıcı seviyesi:"
+
+#: .\views/ucan-admin-options-form.php:16
+msgid "Guest"
+msgstr "Ziyaretçi"
+
+#: .\views/ucan-admin-options-form.php:17
+msgid "Subscriber"
+msgstr "Takipçi"
+
+#: .\views/ucan-admin-options-form.php:18
+msgid "Contributor"
+msgstr "İçerik Sağlayıcı"
+
+#: .\views/ucan-admin-options-form.php:19
+msgid "Author"
+msgstr "Yazar"
+
+#: .\views/ucan-admin-options-form.php:20
+msgid "Editor"
+msgstr "Editör"
+
+#: .\views/ucan-admin-options-form.php:21
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: .\views/ucan-admin-options-form.php:23
+msgid "(Default = Subscriber)"
+msgstr "(Varsayılan = Takipçi)"
+
+#: .\views/ucan-admin-options-form.php:28
+msgid "Use WYSIWYG Editor:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:29
+msgid "Disabling the editor also disables media uploads"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:33
+#: .\views/ucan-admin-options-form.php:75
+#: .\views/ucan-admin-options-form.php:113
+#: .\views/ucan-admin-options-form.php:147
+#: .\views/ucan-admin-options-form.php:155
+#: .\views/ucan-admin-options-form.php:163
+#: .\views/ucan-admin-options-form.php:173
+#: .\views/ucan-admin-options-form.php:201
+msgid "(Default = True)"
+msgstr "(Varsayılan = Evet)"
+
+#: .\views/ucan-admin-options-form.php:38
+msgid "Allow submitter to select the post category:"
+msgstr "İçerik sağlayıcıya kategori seçmesi için izin ver:"
+
+#: .\views/ucan-admin-options-form.php:41
+#: .\views/ucan-admin-options-form.php:103
+#: .\views/ucan-admin-options-form.php:121
+#: .\views/ucan-admin-options-form.php:139
+#: .\views/ucan-admin-options-form.php:183
+#: .\views/ucan-admin-options-form.php:193
+#: .\views/ucan-admin-options-form.php:211
+msgid "(Default = False)"
+msgstr "(Varsayılan = Hayır)"
+
+#: .\views/ucan-admin-options-form.php:46
+msgid "Default Category for submitted posts:"
+msgstr "İçerikler için varsayılan kategori:"
+
+#: .\views/ucan-admin-options-form.php:57
+msgid "(Default = Uncategorized)"
+msgstr "(Varsayılan = Kategorilenmemiş)"
+
+#: .\views/ucan-admin-options-form.php:62
+msgid "Category ID's to exclude from users:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:63
+#, fuzzy
+msgid "Use a comma separated list of ID's (EX: 0, 5, 9, ...)"
+msgstr "Virgüllerle ayrılmış bir liste kullan (ÖRN: pizza, prinç, zeytinler, ...)"
+
+#: .\views/ucan-admin-options-form.php:67
+#: .\views/ucan-admin-options-form.php:131
+msgid "(Default = None)"
+msgstr "(Varsayılan = Hiçbiri)"
+
+#: .\views/ucan-admin-options-form.php:72
+msgid "Set the Post Author to the name of the User who submitted it:"
+msgstr "Yazı gönderenin adını Yazar adı olarak kullan:"
+
+#: .\views/ucan-admin-options-form.php:80
+msgid "Default Author for submitted posts:"
+msgstr "Girilen içerikler için varsayılan Yazar:"
+
+#: .\views/ucan-admin-options-form.php:81
+msgid "If the above option is selected this option will only be used for guest submissions"
+msgstr "Yukarıdaki seçenek işaretliyse bu seçenek sadece misafir kullanıcılar için kullanılacak"
+
+#: .\views/ucan-admin-options-form.php:93
+msgid "(Default = admin)"
+msgstr "(Varsayılan = birisi)"
+
+#: .\views/ucan-admin-options-form.php:98
+#, fuzzy
+msgid "Allow users to edit their own posts:"
+msgstr "İçerik sağlayana etiket girmesi için izin ver:"
+
+#: .\views/ucan-admin-options-form.php:99
+msgid "Above option must be enabled for this to work"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:108
+msgid "Append Guest name to post:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:109
+msgid "Adds guests name to the bottom of the submission"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:118
+msgid "Allow submitter to enter post tags:"
+msgstr "İçerik sağlayana etiket girmesi için izin ver:"
+
+#: .\views/ucan-admin-options-form.php:126
+msgid "Default tags to use for submissions:"
+msgstr "Girilenlerde kullanılacak varsayılan etiketler:"
+
+#: .\views/ucan-admin-options-form.php:127
+msgid "Use a comma separated list (EX: pizza, rice, olives, ...)"
+msgstr "Virgüllerle ayrılmış bir liste kullan (ÖRN: pizza, prinç, zeytinler, ...)"
+
+#: .\views/ucan-admin-options-form.php:136
+msgid "Allow submitter to create a post excerpt:"
+msgstr "İçerik sağlayıcının alıntı yapmasına izin ver:"
+
+#: .\views/ucan-admin-options-form.php:144
+msgid "Allow comments on submitted posts:"
+msgstr "Girilen içeriklerde yorumlara izin ver:"
+
+#: .\views/ucan-admin-options-form.php:152
+msgid "Allow Trackbacks/Pingbacks on submitted posts:"
+msgstr "Girilen içeriklerde Geri izlemeye/Pinglemeye izin ver:"
+
+#: .\views/ucan-admin-options-form.php:160
+msgid "Moderate new posts:"
+msgstr "Yeni içerikleri gözden geçir:"
+
+#: .\views/ucan-admin-options-form.php:168
+msgid "Allow uploads on sumbission:"
+msgstr "Dosya yüklemeye izin ver:"
+
+#: .\views/ucan-admin-options-form.php:169
+msgid "NOTE: For security reasons, only registered members can upload files"
+msgstr "NOT: Güvenlik nedeniyle, sadece kayıtlı kullanıcılar dosya yükleyebilir"
+
+#: .\views/ucan-admin-options-form.php:178
+msgid "Force uploads javascript:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:179
+msgid "NOTE: Leave this off unless you have problems with the media uploader"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:188
+msgid "Show CAPTCHA image:"
+msgstr "CAPTCHA simgesini göster:"
+
+#: .\views/ucan-admin-options-form.php:189
+msgid "If you are allowing guests to post, it is recommended that you enable this"
+msgstr "Eğer misafirlere gönderme izni vermişseniz, bunu etkinleştirmeniz önderilir"
+
+#: .\views/ucan-admin-options-form.php:198
+msgid "Recieve an Email when a new post is submitted:"
+msgstr "Bir içerik gönderildiğinde Eposta ile bildir:"
+
+#: .\views/ucan-admin-options-form.php:206
+msgid "Email User When Their Submission Is Approved:"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:207
+msgid "For this to work you must approve the post through the submissions area of this plugin"
+msgstr ""
+
+#: .\views/ucan-admin-options-form.php:218
+msgid "Save Options"
+msgstr "Seçenekleri Kaydet"
+
+#: .\views/ucan-admin-options-form.php:225
+msgid "uCan Post -- Setup Instructions"
+msgstr "uCan Post -- Kurulum Adımları"
+
+#: .\views/ucan-admin-options-form.php:228
+msgid "Create a new page (this is the page where your users will submit posts from)"
+msgstr "Yeni bir sayfa oluştur (bu kullanıcılarınızın içeriklerini göndermesi için kullanılacak sayfadır)"
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: .\views/ucan-admin-options-form.php:229
+msgid "under the HTML tab of the page editor"
+msgstr "Sayfa düzenleyicinin altındaki HTML sekmesi"
+
+#: .\views/ucan-admin-options-form.php:230
+msgid "Publish the page"
+msgstr "Sayfayı yayınla"
+
+#: .\views/ucan-admin-options-form.php:231
+msgid "Setup your admin settings the way you wish and save"
+msgstr "Yönetici seçenekleriniz istediğiniz şekilde ayarlayıp kaydedin"
+
+#: .\views/ucan-admin-options-form.php:232
+msgid "Done! Pretty easy eh?"
+msgstr "Tamam! Çok kolay di mi?"
+
+#: .\views/ucan-admin-options-saved.php:1
+msgid "Options successfully saved"
+msgstr "Seçenekler başarıyla kaydedildi"
+
+#: .\views/ucan-admin-post-published.php:1
+#, fuzzy
+msgid "The post was successfully published!"
+msgstr "Seçenekler başarıyla kaydedildi"
+
+#: .\views/ucan-admin-submissions-page.php:2
+msgid "uCan Post -- Submissions"
+msgstr "uCan Post - İçerikler"
+
+#: .\views/ucan-admin-submissions-page.php:7
+#: ucan-post-class.php:171
+msgid "Submissions"
+msgstr "İçerikler"
+
+#: .\views/ucan-admin-submissions-page.php:8
+msgid "Submitter Name"
+msgstr "Gönderenin Adı"
+
+#: .\views/ucan-admin-submissions-page.php:9
+msgid "Submitter Email"
+msgstr "Gönderenin Eposta Adresi"
+
+#: .\views/ucan-admin-submissions-page.php:10
+msgid "Type"
+msgstr "Tür"
+
+#: .\views/ucan-admin-submissions-page.php:28
+msgid "View"
+msgstr ""
+
+#: .\views/ucan-admin-submissions-page.php:29
+#, fuzzy
+msgid "Edit"
+msgstr "Editör"
+
+#: .\views/ucan-admin-submissions-page.php:32
+#: .\views/ucan-submission-form.php:126
+msgid "Publish"
+msgstr "Yayınla"
+
+#: .\views/ucan-admin-submissions-page.php:47
+msgid "No submissions have been made"
+msgstr "Yaoılmış bir içerik yok"
+
+#: .\views/ucan-edit-post-form.php:6
+#: .\views/ucan-submission-form.php:27
+msgid "Post Title"
+msgstr "İçerik Başlığı"
+
+#: .\views/ucan-edit-post-form.php:7
+#: .\views/ucan-edit-post-form.php:29
+#: .\views/ucan-submission-form.php:28
+#: .\views/ucan-submission-form.php:50
+#: .\views/ucan-submission-form.php:110
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: .\views/ucan-edit-post-form.php:18
+#: .\views/ucan-submission-form.php:39
+msgid "Post Excerpt"
+msgstr "İçerik Alıntısı"
+
+#: .\views/ucan-edit-post-form.php:28
+#: .\views/ucan-submission-form.php:49
+msgid "Post Content"
+msgstr "İçerik Gövdesi"
+
+#: .\views/ucan-edit-post-form.php:43
+#, fuzzy
+msgid "Click Update below to submit your changes"
+msgstr "İçeriğinizi göndermek için Yayınla düğmesini tıklayın"
+
+#: .\views/ucan-edit-post-form.php:47
+msgid "Update"
+msgstr ""
+
+#: .\views/ucan-preview.php:3
+msgid "Post Preview Area"
+msgstr "İçerik Görüntüleme Alanı"
+
+#: .\views/ucan-preview.php:4
+msgid "You can continue editing below the preview area"
+msgstr "Aşağıdaki görüntüleme alanından düzenlemeye devam edebilirsiniz"
+
+#: .\views/ucan-publish.php:3
+msgid "Congratulations, your post was submitted successfully!"
+msgstr "Tebrikler, içeriğiniz başarıyla alındı!"
+
+#: .\views/ucan-publish.php:13
+msgid "Your post is awaiting moderation and should be available soon."
+msgstr "İçeriğiniz inceleniyor, bir süre sonra aktif olacaktır."
+
+#: .\views/ucan-publish.php:19
+msgid "View My Submission"
+msgstr "Gönderdiğim İçerikleri Göster"
+
+#: .\views/ucan-publish.php:23
+#: .\views/ucan-updated-post.php:12
+msgid "What would you like to do next?"
+msgstr "Şimdi ne yapmak istersiniz?"
+
+#: .\views/ucan-publish.php:24
+#: .\views/ucan-updated-post.php:13
+msgid "Visit Home Page"
+msgstr "Anasayfaya Dön"
+
+#: .\views/ucan-publish.php:24
+msgid "Create Another Post"
+msgstr "Başka Bir İçerik Oluştur"
+
+#: .\views/ucan-submission-form.php:10
+msgid "Name"
+msgstr "Adınız"
+
+#: .\views/ucan-submission-form.php:11
+#: .\views/ucan-submission-form.php:17
+msgid "(required - not shown publically)"
+msgstr "(gerekli - adınız yayınlanmayacak)"
+
+#: .\views/ucan-submission-form.php:16
+msgid "Email"
+msgstr "Eposta"
+
+#: .\views/ucan-submission-form.php:68
+msgid "Post Category"
+msgstr "İçerik Kategorisi"
+
+#: .\views/ucan-submission-form.php:90
+msgid "Post Tags"
+msgstr "İçerik Etiketleri"
+
+#: .\views/ucan-submission-form.php:91
+msgid "(separate tags by comma)"
+msgstr "(etiketleri virgül ile ayırınız)"
+
+#: .\views/ucan-submission-form.php:109
+msgid "Image Verification"
+msgstr "Resim Doğrulaması"
+
+#: .\views/ucan-submission-form.php:122
+msgid "Click Publish below to submit your post"
+msgstr "İçeriğinizi göndermek için Yayınla düğmesini tıklayın"
+
+#: .\views/ucan-unknown-error.php:1
+msgid "A fatal, unknown error has occured!"
+msgstr "Önemli ve bilinmeyen bir hata oluştu!"
+
+#: .\views/ucan-updated-post.php:3
+#, fuzzy
+msgid "Congratulations, your post was successfully updated"
+msgstr "Tebrikler, içeriğiniz başarıyla alındı!"
+
+#: .\views/ucan-updated-post.php:8
+msgid "View The Post"
+msgstr ""
+
+#: .\views/ucan-updated-post.php:13
+#, fuzzy
+msgid "Create A New Post"
+msgstr "Başka Bir İçerik Oluştur"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Upload/Insert"
+msgstr "Yükle/Gir"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add an Image"
+msgstr "Bir Resim Ekle"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Video"
+msgstr "Video Ekle"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Audio"
+msgstr "Ses Ekle"
+
+#: .\views/ucan-upload-buttons.php:2
+msgid "Add Media"
+msgstr "Ortam Ekle"
+
+#: ucan-post-class.php:169
+#: ucan-post-class.php:170
+#, fuzzy
+msgid "uCan Post - Options"
+msgstr "uCan Post -- Yönetici Seçenekleri"
+
+#: ucan-post-class.php:170
+#, fuzzy
+msgid "Options"
+msgstr "Seçenekleri Kaydet"
+
+#: ucan-post-class.php:171
+#, fuzzy
+msgid "uCan Post - Submissions"
+msgstr "uCan Post - İçerikler"
+
+#: ucan-post-class.php:291
+msgid "You must enter a title!"
+msgstr ""
+
+#: ucan-post-class.php:293
+msgid "You must enter some content!"
+msgstr ""
+
+#: ucan-post-class.php:296
+#, fuzzy
+msgid "Image verification did not match!"
+msgstr "Resim Doğrulaması"
+
+#: ucan-post-class.php:298
+msgid "You must enter your name!"
+msgstr ""
+
+#: ucan-post-class.php:300
+msgid "You must enter a valid email address!"
+msgstr ""
+
+#: ucan-post-class.php:345
+msgid "By:"
+msgstr ""
+
+#: ucan-post-class.php:472
+#, fuzzy
+msgid "Edit your submission"
+msgstr "Gönderdiğim İçerikleri Göster"
+
+#: ucan-post-class.php:519
+msgid "login"
+msgstr ""
+
+#: ucan-post-class.php:519
+msgid "or"
+msgstr ""
+
+#: ucan-post-class.php:519
+msgid "register"
+msgstr ""
+
+#: ucan-post-class.php:547
+msgid "Only registered users have permission to view this form. Please"
+msgstr ""
+
+#: ucan-post-class.php:584
+msgid "A new post has been submitted on your site. Follow the link below to view it. Do not forget to Publish the post if you are moderating new submissions."
+msgstr ""
+
+#: ucan-post-class.php:584
+#: ucan-post-class.php:601
+#, fuzzy
+msgid "View Submission"
+msgstr "Gönderdiğim İçerikleri Göster"
+
+#: ucan-post-class.php:586
+#, fuzzy
+msgid "New Post Submission"
+msgstr "Gönderdiğim İçerikleri Göster"
+
+#: ucan-post-class.php:601
+msgid "Your post was published. Follow the link below to view it."
+msgstr ""
+
+#: ucan-post-class.php:603
+#, fuzzy
+msgid "Post Published"
+msgstr "Yayınla"
+

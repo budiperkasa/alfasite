@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Boulevard/comments.php:17
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: Boulevard/functions.php:119
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:27
+#: Boulevard/contact.php:32
+#: Boulevard/contact.php:37
+#: Boulevard/comments.php:77
+#: Boulevard/comments.php:80
+msgid "(required)"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:11
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/footer.php:36
+msgid "Back to Top"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:8
+msgid "Browsing"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:9
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:90
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/tabs_widget.php:42
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:54
+msgid "Connect on Facebook"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:14
+msgid "Daily Archive"
+msgstr ""
+
+#. Text in function
+#: Boulevard/functions.php:119
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:32
+#: Boulevard/comments.php:80
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:24
+msgid "Email sent!"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:55
+msgid "Fans"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:78
+msgid "Follow on Twitter"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:79
+msgid "Followers"
+msgstr ""
+
+#. Text in function
+#: Boulevard/comments.php:44
+msgid "Leave A Response"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:56
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:56
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:13
+msgid "Monthly Archive"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:27
+#: Boulevard/comments.php:77
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: Boulevard/single.php:10
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: Boulevard/comments.php:17
+msgid "No Comments"
+msgstr ""
+
+#. Text in function
+#: Boulevard/comments.php:17
+msgid "One Comment"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:39
+msgid "Please enter a message."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:29
+msgid "Please enter a name."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:34
+msgid "Please enter a valid email address."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/tabs_widget.php:41
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:97
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: Boulevard/single.php:9
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+#: Boulevard/functions.php:119
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/search.php:7
+msgid "Search results for"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:41
+msgid "Send Email"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/404.php:20
+msgid "Sorry, the page you are looking for could not be found. Try using the search box below!"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:113
+msgid "Subscribe to RSS Feed"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/social_counter_widget.php:115
+msgid "Subscribers"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:10
+msgid "Tag"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/tabs_widget.php:43
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:83
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/archive.php:12
+msgid "Yearly Archive"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:49
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/contact.php:37
+msgid "Your Message"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/functions.php:124
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:49
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/framework/widgets/tabs_widget.php:79
+msgid "says"
+msgstr ""
+
+#. Text in echo
+#: Boulevard/comments.php:49
+msgid "to post a comment"
+msgstr ""
